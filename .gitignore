@@ -1,0 +1,28 @@
+# Variables de entorno (credenciales) - NUNCA subir esto
+.env
+
+# Entornos virtuales de Python
+.venv/
+venv/
+env/
+
+# Cache y bytecode de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Cache de modelos descargados (sentence-transformers / HuggingFace)
+# se descargan de nuevo automáticamente si no está, no hace falta versionarlo
+.cache/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de editores
+.vscode/
+.idea/
+
+# Evidencia generada automáticamente (opcional: coméntalo si SÍ quieres
+# versionar los reportes de pruebas como evidencia formal del encargo)
+# tests/evidencia/*.md
