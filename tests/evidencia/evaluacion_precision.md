@@ -1,6 +1,6 @@
 # Evaluación de precisión — Asistente Duoc UC
 
-**Fecha de ejecución:** 2026-09-07 19:21
+**Fecha de ejecución:** 2026-10-22 15:10
 
 **Total de casos evaluados:** 8
 
@@ -20,11 +20,12 @@ El FUAS (Formulario Único de Acreditación Socioeconómica) es el primer paso o
 
 **Respuesta real del agente:**
 
-El Formulario Único de Acreditación Socioeconómica (FUAS) es **el primer paso obligatorio** para que un estudiante pueda acceder a los beneficios estatales de educación superior, entre los que se encuentran la **Gratuidad Universitaria**, becas y créditos de arancel (Fuente: Manual FUAS, página 3).  
+El Formulario Único de Acreditación Socio‑económica (FUAS) es **el primer paso obligatorio para postular a los beneficios estudiantiles del Estado, entre ellos la Gratuidad Universitaria, en el proceso 2026** (Fuente: Manual FUAS, página 3).
 
-En el proceso 2026, el FUAS debe ser completado dentro del período de postulación (del 12 de febrero al 20 de marzo) para que la solicitud de Gratuidad sea considerada (Fuente: Manual FUAS, página 1).  
+- **Debe presentarse en el periodo de postulación oficial**, que para 2026 está abierto del 12 de febrero al 20 de marzo (Fuente: Manual FUAS, página 5).  
+- **Quien ya posee la Gratuidad y solo desea renovarla** no tiene que volver a completar el FUAS; la renovación se gestiona a través de los canales indicados (www.gratuidad.cl, www.beneficiosestudiantiles.cl) (Fuente: Manual FUAS, página 4).  
 
-**Excepción:** los estudiantes que ya poseen Gratuidad, becas o créditos renovables y solo desean mantener esos beneficios para el año siguiente **no deben volver a completar el FUAS**; deben seguir los requisitos de renovación indicados en los sitios oficiales (Fuente: Manual FUAS, página 4).  
+En resumen, el FUAS funciona como la herramienta de acreditación socio‑económica que permite al estudiante iniciar la solicitud de la Gratuidad (y de otros beneficios como becas o créditos) para el año académico 2026, siempre que se presente dentro del plazo establecido.
 
 ---
 
@@ -40,7 +41,18 @@ Los estudiantes que ya cuentan con Gratuidad, becas y/o créditos en calidad de 
 
 **Respuesta real del agente:**
 
-Según el Manual FUAS (pág. 4), los alumnos que **ya cuentan con Gratuidad, becas o créditos renovantes** y **solo quieren mantener esos beneficios para el año siguiente** **no deben volver a completar el formulario FUAS**. En ese caso basta con cumplir con los requisitos de renovación que se encuentran publicados en los portales oficiales www.gratuidad.cl y www.beneficiosestudiantiles.cl (Fuente: Manual FUAS, página 4).
+Según el **Manual FUAS** (pág. 4):
+
+- **Los alumnos que ya cuentan con Gratuidad, becas y/o créditos renovantes y solo quieren mantener sus beneficios para el año siguiente **no deben volver a completar el formulario FUAS** (Fuente: Manual FUAS, página 4).  
+
+- El proceso de FUAS está dirigido a:  
+  • Todos los estudiantes que ingresan a primer año en 2026.  
+  • Estudiantes antiguos **sin beneficios** que deseen optar a gratuidad, becas o créditos.  
+  • Estudiantes antiguos **con beneficios previos que quieran cambiar a otros más favorables** (Fuente: Manual FUAS, página 4).  
+
+Por lo tanto, si el estudiante ya es beneficiario vigente de la gratuidad y únicamente desea **renovar** ese mismo beneficio para el próximo año académico, **no tiene que volver a presentar el FUAS**, siempre que cumpla con los requisitos de renovación establecidos por la normativa (por ejemplo, mantener la condición de alumno regular y no superar la duración nominal de la carrera).  
+
+En caso de duda sobre los requisitos específicos de renovación, se recomienda consultar los lineamientos en www.gratuidad.cl o www.beneficiosestudiantiles.cl, tal como indica el mismo manual.
 
 ---
 
@@ -56,34 +68,33 @@ Para obtener el ingreso promedio mensual de los años 2024 y 2025 de cada integr
 
 **Respuesta real del agente:**
 
-Para calcular el **promedio mensual de ingresos** que debes declarar en el formulario del FUAS, sigue estos pasos (todos están descritos en el Manual FUAS):
+**Cálculo del promedio mensual de ingresos que debe declararse en el FUAS**
 
-1. **Identifica a todos los integrantes del hogar mayores de 18 años** y toma en cuenta **todos los ingresos que perciban**, aun cuando no sean constantes ni provengan de un contrato formal (​Fuente: Manual FUAS, página 19​).
+1. **Identificar a todos los integrantes del grupo familiar**  
+   - Se deben considerar **todos los miembros mayores de 18 años** del hogar, aun cuando sus ingresos no sean constantes ni provengan de un contrato formal. (Fuente: *Manual FUAS*, página 19)  
 
-2. **Para cada integrante**, reúne los ingresos brutos de **cada mes** del año que corresponde (2024 y, por separado, 2025).  
-   - De esos ingresos brutos **descuenta los descuentos legales** que se apliquen en cada mes (por ejemplo, cotizaciones previsionales, impuestos, etc.) (​Fuente: Manual FUAS, página 20​).
+2. **Clasificar el tipo de ingreso de cada integrante**  
+   - Cada ingreso debe ser identificado (trabajo dependiente, honorarios, retiros, dividendos, intereses, etc.) y declarado en la columna correspondiente del formulario; las columnas que no apliquen se dejan en “0”. (Fuente: *Manual FUAS*, página 22)  
 
-3. **Suma los ingresos netos mensuales** de enero a diciembre del año en cuestión.  
+3. **Calcular el promedio mensual según el tipo de ingreso**
 
-4. **Divide esa suma entre 12**. El resultado es el **PROMEDIO MENSUAL** del integrante para ese año (​Fuente: Manual FUAS, página 20​).
+   | Tipo de ingreso | Cómo se calcula el promedio mensual |
+   |-----------------|--------------------------------------|
+   | **Ingresos brutos (trabajo dependiente)** | Sumar los ingresos brutos **menos los descuentos legales** de cada mes del año (enero‑diciembre) y dividir el total entre 12. (Fuente: *Manual FUAS*, página 20) |
+   | **Honorarios (trabajador independiente)** | Tomar el ingreso bruto total de las boletas emitidas durante el año, **descontar un 20 %** (por cotizaciones de salud y AFP) y dividir el resultado entre 12. (Fuente: *Manual FUAS*, página 22) |
+   | **Retiros de empresas** | Obtener el monto total del retiro en la declaración de renta (Formulario 22, línea 1, código 104) y dividirlo por 12. (Fuente: *Manual FUAS*, página 22) |
+   | **Dividendos por acciones** | Obtener el total de utilidades por acciones en la declaración de renta (Formulario 22, línea 7, código 155) y dividirlo por 12. (Fuente: *Manual FUAS*, página 22) |
+   | **Intereses de capitales mobiliarios** | Obtener el total de intereses (cuentas de ahorro, fondos mutuos, etc.) en la declaración de renta (Formulario 22, línea 2, código 105) y dividirlo por 12. (Fuente: *Manual FUAS*, página 22) |
+   | **Otros ingresos (pensión alimenticia, aportes de parientes, etc.)** | Calcular el promedio mensual del monto recibido durante el año y declararlo en la columna correspondiente. (Fuente: *Manual FUAS*, página 22) |
 
-5. **Repite el procedimiento** para cada miembro del grupo familiar y para **ambos años** (2024 y 2025).  
+4. **Sumar los promedios de todos los integrantes**  
+   - Para obtener el ingreso mensual total del **grupo familiar** en cada año (2024 y 2025), se suman los promedios mensuales calculados para cada persona. (Fuente: *Manual FUAS*, página 20)  
 
-6. **En el formulario**, ingresa el promedio mensual obtenido para cada persona en la columna correspondiente.  
-   - Si el ingreso promedio de un integrante es inferior a **$15.001**, ese valor no se declara (el ingreso mínimo a declarar es $15.001) (​Fuente: Manual FUAS, página 20​).
+5. **Verificar el ingreso mínimo**  
+   - El ingreso que se declara **no puede ser inferior a $15 001** mensuales. Si el cálculo da un valor menor, se debe registrar $15 001 como ingreso mínimo. (Fuente: *Manual FUAS*, página 20)  
 
-7. **Para obtener el ingreso mensual total del grupo familiar**, suma los promedios mensuales de todos los integrantes del hogar para cada año (​Fuente: Manual FUAS, página 20​).
-
-En resumen, el cálculo consiste en:
-
-\[
-\text{Promedio mensual (por persona, por año)} = 
-\frac{\displaystyle\sum_{mes=1}^{12}\bigl(\text{Ingreso bruto}_{mes} - \text{Descuentos legales}_{mes}\bigr)}{12}
-\]
-
-Luego, se suman los promedios de todos los miembros para obtener el ingreso mensual total del grupo familiar que se declara en el formulario del FUAS.  
-
-Si necesitas más detalle sobre cómo rellenar cada columna del formulario, revisa las indicaciones específicas que aparecen en el propio formulario y en la sección “Beneficios estudiantiles, formulario” del Manual (​Fuente: Manual FUAS, página 20​).
+6. **Ingresar el valor en el formulario**  
+   - El promedio mensual resultante (para 2024 y para 2025
 
 ---
 
@@ -99,7 +110,13 @@ El reglamento establece de forma explícita que, si bien la suspensión exime al
 
 **Respuesta real del agente:**
 
-Según el Reglamento Académico de Duoc UC, la suspensión de un período académico puede generar **la pérdida de la gratuidad** porque al extenderse el plazo de duración de la carrera se afecta ese beneficio, junto con otros beneficios estatales e institucionales (Fuente: Reglamento Duoc, página 19).
+Según el Reglamento de Duoc UC, la suspensión de un período académico puede afectar la **gratuidad** del estudiante de la siguiente manera:
+
+- **Pérdida de la gratuidad por extensión del tiempo de carrera**: Los impactos derivados de una suspensión son de exclusiva responsabilidad del estudiante; entre ellos se menciona explícitamente *“la pérdida de la gratuidad por la extensión del plazo de duración de la carrera”* (Fuente: Reglamento Duoc, página 19).
+
+- **Suspensión del beneficio cuando el estudiante deja de ser alumno regular**: El beneficio de gratuidad se suspende para quienes “no mantengan su calidad de alumno regular en la carrera o programa de estudio en que se le otorgó el beneficio” (Fuente: Requisitos Mineduc, página 12, Artículo 37).
+
+En conjunto, si la suspensión hace que el estudiante exceda el tiempo nominal de la carrera o pierda la condición de alumno regular, el derecho a la gratuidad puede ser interrumpido o revocado. Para evitar este riesgo, es importante respetar los límites de suspensión establecidos (máximo dos períodos académicos, salvo autorización excepcional) y mantener la condición de alumno regular durante el proceso.
 
 ---
 
@@ -115,14 +132,14 @@ Durante la suspensión de estudios justificada bajo la Ley N° 21.790, el estudi
 
 **Respuesta real del agente:**
 
-Durante una suspensión de estudios que se haya solicitado bajo la Ley N° 21.790 (por maternidad, paternidad o por ser cuidador/a de una persona dependiente), el Reglamento académico establece lo siguiente:
+Según el **Reglamento Académico de Duoc UC**:
 
-* **Mantención de los beneficios estatales** – “Se mantendrán sólo los beneficios estatales vigentes de acuerdo a la Ley 21.790, lo que no es responsabilidad de la Institución” (Fuente: Reglamento Duoc, página 18).  
-  → Esto incluye la Gratuidad, ya que forma parte de los beneficios estatales.
+* **Durante una suspensión autorizada por la institución** (incluidas aquellas solicitadas bajo la Ley N° 21.790 por embarazo, maternidad, paternidad o cuidado de una persona dependiente) **solo se mantienen los beneficios estatales vigentes que correspondan a la Ley 21.790**; la institución no es responsable de esos beneficios (página 18)【Fragmento 2 — Fuente: Reglamento Duoc, página 18】.  
+* **No se devengará el pago de matrícula ni de arancel** por el tiempo que dure la suspensión autorizada (página 18)【Fragmento 2 — Fuente: Reglamento Duoc, página 18】.  
 
-* **No se devengará pago de matrícula ni arancel** – “Durante la suspensión… No se devengará el pago de matrícula ni arancel por el periodo que dure la suspensión autorizada por la Institución” (Fuente: Reglamento Duoc, página 18).  
+Además, el reglamento indica que **las suspensiones amparadas por la Ley N° 21.790 se regirán por los plazos especiales establecidos en esa ley**, y no por los plazos generales del reglamento (página 19)【Fragmento 5 — Fuente: Reglamento Duoc, página 19】.
 
-En resumen, mientras dure la suspensión amparada por la Ley N° 21.790, el estudiante sigue recibiendo la Gratuidad y cualquier otro beneficio estatal vigente, y la institución no cobra matrícula ni aranceles por ese período.
+En resumen, cuando la suspensión está respaldada por la Ley 21.790, la **gratuidad (u otros beneficios estatales) se mantiene**, pero **no se cobra matrícula ni arancel durante el período de suspensión**.
 
 ---
 
@@ -138,13 +155,27 @@ El estudiante debe ser chileno, o extranjero con permanencia definitiva o reside
 
 **Respuesta real del agente:**
 
-Según los fragmentos que has compartido del Reglamento del Financiamiento Institucional para la Gratuidad (Decreto 333), sólo se menciona explícitamente un requisito de **permanencia** para mantener el beneficio:
+**Requisitos que aparecen en el fragmento disponible**
 
-- **Permanencia académica:** el estudiante debe permanecer matriculado en la carrera o programa para el cual se le otorgó el beneficio y no exceder la duración nominal de dicha carrera o programa (Artículo 26, pág. 9)【Fragmento 3 — Fuente: Requisitos Mineduc, página 9】.
+| Tipo de requisito | Qué exige el reglamento (según el fragmento) | Fuente |
+|-------------------|---------------------------------------------|--------|
+| **Permanencia** | a) Permanecer matriculado en la carrera o programa con el que se le otorgó el beneficio. <br> b) No exceder la duración nominal de esa carrera o programa. | (Fuente: *Requisitos Mineduc*, página 9 – Artículo 26) |
 
-En los fragmentos proporcionados **no aparecen** los requisitos socio‑económicos ni los de nacionalidad que deben cumplir los estudiantes para **acceder** al beneficio de gratuidad.  
+**Lo que **no** se encuentra en los fragmentos proporcionados**
 
-Para obtener esa información completa y oficial, te recomendamos consultar directamente el texto íntegro del Decreto 333 o ponerte en contacto con la Oficina de Financiamiento del Departamento de Admisión y Financiamiento de Duoc UC. Allí podrán brindarte los detalles exactos sobre los criterios socio‑económicos, de nacionalidad y cualquier otro requisito de acceso.
+- **Requisitos socio‑económicos** (por ejemplo, nivel de ingresos familiares, deciles de ingreso, etc.).  
+- **Requisitos de nacionalidad** (ciudadanía, residencia, etc.).  
+
+Los fragmentos que se entregaron no contienen la información específica sobre esos requisitos.  
+
+**Qué hacer a continuación**
+
+Para conocer con detalle los requisitos socio‑económicos, de nacionalidad y cualquier otro criterio que la normativa establezca para acceder al beneficio de gratuidad, le recomendamos:
+
+1. Revisar el texto completo del **Decreto 333 – Reglamento del Financiamiento Institucional para la Gratuidad** (título V de la Ley 21.091).  
+2. Consultar directamente con la Oficina de Financiamiento y Admisión de Duoc UC o con la Subsecretaría de Educación Superior, donde podrán indicarle los artículos exactos que describen esos requisitos.  
+
+Si necesita orientación sobre el proceso de postulación o la documentación que debe presentar, también podemos ayudarle con la información que sí está contenida en los fragmentos.
 
 ---
 
@@ -160,30 +191,27 @@ El estudiante beneficiario puede cambiarse de carrera o de institución de educa
 
 **Respuesta real del agente:**
 
-Según los fragmentos que tienes a disposición:
+**Número de cambios permitidos**
 
-1. **Número de cambios permitidos**  
-   - En el texto no se indica un número máximo de veces que un estudiante pueda cambiar de carrera o de institución mientras mantiene la gratuidad. Lo que sí se establece es que el cambio es posible siempre que se cumplan ciertas condiciones (carrera incluida en el artículo 104 de la ley y que la nueva institución esté adscrita al financiamiento institucional)【Fuente: Requisitos Mineduc, página 10】.  
-   - Además, se menciona que el beneficio puede mantenerse tanto al cambiar dentro de la misma institución como al trasladarse a otra que acceda al financiamiento institucional, sin señalar un límite de repeticiones【Fuente: Requisitos Mineduc, página 9】.  
+- Un estudiante beneficiario de gratuidad puede **cambiarse una sola vez** de carrera o programa, ya sea dentro de la misma institución o a otra institución que reciba financiamiento institucional, y mantener el beneficio.  
+  (Fuente: *Requisitos Mineduc*, página 13)  
 
-   **Conclusión:** El contexto disponible no fija un número máximo de cambios; el estudiante puede cambiar siempre que respete los requisitos señalados.
+**Cálculo del tiempo restante del beneficio en la nueva carrera**
 
-2. **Cálculo del tiempo restante del beneficio en la nueva carrera**  
-   - Cuando el estudiante se traslada a una segunda carrera o programa, la duración nominal del beneficio se ajusta de acuerdo con lo que establece el artículo 12: si existen materias o semestres convalidados, esos semestres se descuentan de la nueva duración del beneficio【Fuente: Requisitos Mineduc, página 5】.  
-   - En otras palabras, el tiempo que le queda al estudiante en la nueva carrera se calcula restando los semestres que ya fueron convalidados (por ejemplo, por estudios previos o por la primera carrera) a la duración nominal establecida para esa segunda carrera.
+- Al efectuar el cambio, el beneficio **se extiende por la duración nominal de la segunda carrera o programa**, pero se **descuenta** el tiempo que ya se haya cursado con gratuidad (incluyendo los semestres que hayan sido convalidados).  
+  (Fuente: *Requisitos Mineduc*, página 13)  
 
-   **Ejemplo simplificado (solo a modo ilustrativo, no extraído del documento):**  
-   - Duración nominal de la nueva carrera: 8 semestres.  
-   - Semestres convalidados: 2.  
-   - Tiempo restante del beneficio: 8 – 2 = 6 semestres.
+- En caso de que exista convalidación de asignaturas o semestres, esos períodos **se restan** de la duración nominal del nuevo programa para determinar cuántos semestres o años quedan por cubrir con gratuidad.  
+  (Fuente: *Requisitos Mineduc*, página 5)  
 
----
+**Resumen práctico**
 
-**Resumen:**  
-- No hay una restricción explícita en los fragmentos sobre cuántas veces puede cambiarse de carrera o institución; el cambio está permitido siempre que se cumplan los requisitos señalados.  
-- El tiempo restante del beneficio en la nueva carrera se determina restando los semestres convalidados de la duración nominal de esa carrera, tal como indica el artículo 12 del reglamento.  
+1. **Cambios permitidos:** 1 cambio total (carrera o institución).  
+2. **Tiempo restante:** Duración nominal de la nueva carrera – semestres ya cursados con gratuidad (incluyendo los convalidados).  
 
-Si necesitas información más detallada o confirmar si existen disposiciones adicionales en el Decreto 333 que no aparecen en los fragmentos proporcionados, te recomendamos consultar el documento completo del decreto o acudir directamente a la Oficina de Financiamiento de Duoc UC.
+Si necesitas más detalle sobre los requisitos específicos para efectuar el cambio (por ejemplo, que la nueva carrera sea presencial y conduzca a un título de pregrado), puedes consultar el artículo correspondiente del reglamento.  
+
+> *Nota:* Esta información se basa en los fragmentos del Decreto 333 contenidos en los documentos oficiales proporcionados. Si tu caso tiene particularidades que no aparecen aquí, te recomendamos contactar directamente a la Oficina de Financiamiento o revisar el texto completo del decreto.
 
 ---
 
@@ -199,13 +227,17 @@ Si el estudiante excede la duración nominal de su carrera por hasta un año (pr
 
 **Respuesta real del agente:**
 
-Según el fragmento que se incluye en los **Requisitos Mineduc**:
+Según el fragmento 1 de los **Requisitos Mineduc** (página 10), el artículo 29 establece que cuando la permanencia del estudiante supera la duración nominal de la carrera **hasta un año**, la institución solo puede cobrarle **hasta el 50 % del valor de la suma del arancel regulado** (y el texto se corta después de “y”, por lo que no se especifican otros conceptos adicionales).  
 
-* **Arancel** – Si la permanencia del estudiante supera la duración nominal de la carrera pero **no excede en más de un año** el plazo de la obligación de la institución, ésta solo puede cobrar **hasta el 50 % del valor del arancel regulado** (Fuente: *Requisitos Mineduc*, página 10, Artículo 29, párrafo 4°).
+No se encuentran en el contexto proporcionado disposiciones que indiquen un porcentaje distinto o un límite para cobros cuando la excedencia supera ese año, ni para la matrícula específicamente.  
 
-* **Matrícula** – En los fragmentos proporcionados no aparece una norma que establezca un límite máximo de cobro de matrícula para los estudiantes que prolongan su estudio más allá de la duración nominal. Por lo tanto, con la información disponible no es posible precisar dicho límite.
+**En resumen:**  
+- Si el estudiante supera la duración nominal de su programa **hasta un año**, la universidad puede exigirle como máximo **el 50 % del arancel regulado**.  
+- No hay información adicional en los fragmentos disponibles sobre límites para periodos mayores a un año o para la matrícula.  
 
-En resumen, el único límite expresamente indicado es el del arancel (máximo 50 % del arancel regulado para un exceso de hasta un año). Para conocer si existen disposiciones adicionales sobre la matrícula u otros plazos de exceso, le recomendamos consultar el documento completo o dirigirse a la Oficina de Financiamiento de Duoc UC.
+*(Fuente: Requisitos Mineduc, artículo 29, página 10)*  
+
+Si necesitas conocer los criterios aplicables para excedencias superiores a un año o detalles específicos sobre la matrícula, te recomendamos consultar el documento completo del Ministerio de Educación o acercarte a la Oficina de Financiamiento de Duoc UC.
 
 ---
 

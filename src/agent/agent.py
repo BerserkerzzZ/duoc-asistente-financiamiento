@@ -12,8 +12,8 @@ import os
 from dotenv import load_dotenv
 from groq import Groq
 
-from src.retriever import retrieve
-from src.prompts import SYSTEM_PROMPT, build_user_prompt
+from src.retrieval.retriever import retrieve
+from src.agent.prompts import SYSTEM_PROMPT, build_user_prompt
 
 load_dotenv()
 
@@ -22,7 +22,7 @@ _groq_client = Groq(api_key=os.environ["GROQ_API_KEY"])
 MODELO_LLM = "openai/gpt-oss-120b"
 
 
-def responder(pregunta: str, k: int = 5) -> str:
+def responder(pregunta: str, k: int = 12) -> str:
     """
     Pipeline completo: retrieval + generación.
     Devuelve el texto de la respuesta final, ya con las citas incluidas

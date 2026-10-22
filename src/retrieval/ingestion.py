@@ -24,7 +24,7 @@ def procesar_e_ingestar_pdfs():
     print("🧹 Colección en MongoDB limpiada con éxito.")
 
     # 2. CALCULAR RUTA ABSOLUTA
-    BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
     print(f"Detectando carpeta raíz del proyecto en: {BASE_DIR}")
 
     pdf_files = {

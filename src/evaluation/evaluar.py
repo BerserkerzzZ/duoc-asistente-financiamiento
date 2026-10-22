@@ -15,8 +15,8 @@ from datetime import datetime
 from pathlib import Path
 import time
 
-from src.agent import responder
-from src.dataset import CASOS_EVALUACION
+from src.agent.agent import responder
+from src.evaluation.dataset import CASOS_EVALUACION
 
 
 def ejecutar_evaluacion():
